@@ -1,2 +1,4 @@
 # githubtest
-A test repository so that I can learn github
+A test repository so that I can learn github.
+
+Updating ReadMe through clone file.
